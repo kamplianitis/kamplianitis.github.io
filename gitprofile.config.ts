@@ -55,7 +55,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/18SguOK49zrPyO-uyNKJwS4f7xRzQWqMK/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      'https://kamplianitis.github.io/resume/Amplianitis_Konstantinos_CV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Python',
@@ -75,7 +75,7 @@ const CONFIG = {
   experiences: [
     {
       company: 'Sphynx Technology Solutions',
-      position: 'Sofware Engineer',
+      position: 'Software Engineer',
       from: 'September 2022',
       to: 'Present',
       companyLink: 'https://sphynx.ch',
